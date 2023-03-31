@@ -3,10 +3,10 @@
 import { client, icecreamCollection } from '../index.js'
 
 const product1 = {
-  name: 'single scoop',
-  price: 75.99,
-  flavor: 'Vanilla',
-  description: 'singular scoop of creamy rich italian icecream',
+  name: 'Sunda',
+  price: 236.99,
+  flavor: 'Choice of 3 Flavors',
+  description: 'Choice of 1,2, or 3 scoops of icecream and topped with caramel and chocolate syrup and whipped cream.',
 }
 
 
